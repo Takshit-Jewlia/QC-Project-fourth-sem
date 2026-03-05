@@ -1,0 +1,5 @@
+{
+    "backend_name": "ibm_torino",
+    "num_qubits": 133,
+    "version": 2
+}
