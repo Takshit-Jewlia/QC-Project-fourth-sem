@@ -1,0 +1,13 @@
+{
+    "bond_length": 0.75,
+    "basis": "sto3g",
+    "shots": 2048,
+    "optimizer": "COBYLA",
+    "maxiter": 40,
+    "energy": -1.6135785058490644,
+    "ground_state_energy": -0.9080088912890644,
+    "nuclear_repulsion_energy": 0.70556961456,
+    "iterations": 30,
+    "optimizer_success": false,
+    "backend": "ibm_fez"
+}

@@ -1,0 +1,8 @@
+Bond Length (Å),Results,Ground State Energy (Hartree),Time (s),Nuclear Repulsion Energy (Hartree),Electronic Energies (Hartree)
+0.75," message: Return from COBYLA because the objective function has been evaluated MAXFUN times.
+ success: False
+  status: 3
+     fun: -1.6135785058490644
+       x: [ 5.623e-02  6.194e-02 -1.335e-01]
+    nfev: 30
+   maxcv: 0.0",-0.9080088912890644,1897.6376564502716,0.70556961456,-1.6135785058490644
