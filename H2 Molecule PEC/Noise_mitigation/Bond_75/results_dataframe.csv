@@ -1,0 +1,8 @@
+Bond Length,Results,Ground State Energy (Hartree),Time (s),Nuclear Repulsion Energy (Hartree),Electronic Energies (Hartree),Convergence History,optimal_parameters_list
+0.75," message: Return from COBYLA because the objective function has been evaluated MAXFUN times.
+ success: False
+  status: 3
+     fun: -1.7687397883463918
+       x: [-8.333e-02 -7.405e-03 -3.519e-01]
+    nfev: 12
+   maxcv: 0.0",-1.063170173786392,341.7659709453583,0.70556961456,-1.7687397883463918,"[array(-1.73803976), array(-1.22130444), array(-1.21505686), array(-0.84349934), array(-1.20070313), array(-1.55340285), array(-1.75043584), array(-1.76873979), array(-1.67028873), array(-1.67644988), array(-1.74076025), array(-1.69943728)]",[-0.08332644 -0.00740516 -0.35189593]
